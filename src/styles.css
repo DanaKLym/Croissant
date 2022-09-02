@@ -1,8 +1,15 @@
 body {
-    background: #F8E8A6;
+    background: #AAFF91;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 div.navigation a {
-    color: rgb(11, 78, 11);
+    color: #6E0079;
     padding: 20px;
 }
+
+h1 {
+    color: #D97EFF;
+    font-weight: 700;
+    text-shadow: 2px 2px #fff;
+    }
