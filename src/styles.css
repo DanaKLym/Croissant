@@ -1,0 +1,8 @@
+body {
+    background: #F8E8A6;
+}
+
+div.navigation a {
+    color: rgb(11, 78, 11);
+    padding: 20px;
+}
